@@ -1,0 +1,24 @@
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\ref\Talabat.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\ref\Talabat.DAL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll
+D:\Route\Cycle 37\08 ASP Web APIs\Talabat Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
